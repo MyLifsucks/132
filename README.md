@@ -1,2 +1,2 @@
 # 132
-eqr
+Linux Updater
